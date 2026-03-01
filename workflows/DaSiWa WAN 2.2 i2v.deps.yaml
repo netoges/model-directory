@@ -1,0 +1,35 @@
+custom_nodes:
+  git_custom_nodes:
+    'https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite':
+      disabled: false
+      hash: 993082e4f2473bf4acaf06f51e33877a7eb38960
+    'https://github.com/rgthree/rgthree-comfy':
+      disabled: false
+      hash: 8ff50e4521881eca1fe26aec9615fc9362474931
+    'https://github.com/Artificial-Sweetener/comfyui-WhiteRabbit':
+      disabled: false
+      hash: 178156241b29b7cf0fb540a9688e1d9c375e8608
+    'https://github.com/kijai/ComfyUI-KJNodes':
+      disabled: false
+      hash: 9b565354e32a7061296ac598d9c7f445e10d31ed
+    'https://github.com/yolain/ComfyUI-Easy-Use':
+      disabled: false
+      hash: 81c510c06e18dffd4f43518644fc35964c9168ca
+    'https://github.com/pythongosssss/ComfyUI-Custom-Scripts':
+      disabled: false
+      hash: 609f3afaa74b2f88ef9ce8d939626065e3247469
+    'https://github.com/city96/ComfyUI-GGUF':
+      disabled: false
+      hash: 6ea2651e7df66d7585f6ffee804b20e92fb38b8a
+    'https://github.com/thu-ml/SageAttention':
+      disabled: false
+      hash: d1a57a546c3d395b1ffcbeecc66d81db76f3b4b5
+    'https://github.com/phazei/ComfyUI-HunyuanVideo-Foley':
+      disabled: false
+      hash: 5fba8baa839c5e667165aac2aff56c6b9d497400
+    'https://github.com/kijai/ComfyUI-MMAudio':
+      disabled: false
+      hash: 8eaeb72edc3aaf2059b57f2d96a1f6f689f19ae2
+    'https://github.com/filliptm/ComfyUI_FL-CosyVoice3':
+      disabled: false
+      hash: a11dda8a62916b9889ca98a4f57b779ad86a3903
